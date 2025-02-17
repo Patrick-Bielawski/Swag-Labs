@@ -3,7 +3,7 @@
 #
 
 *** Variables ***
-${URL}                  http://testovani.kitner.cz/courses
+${URL_LOGIN}                  https://www.saucedemo.com/
 ${PORT}                 80
 
 ${TIME_BETWEEN_CLICKS}  100ms
